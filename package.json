@@ -1,0 +1,10 @@
+{
+  "name": "typescript-itxyuv",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/typescript-itxyuv",
+  "dependencies": {
+    "nem2-sdk": "^0.9.3",
+    "rxjs": "5.5.6"
+  },
+  "version": "1.0.0"
+}
